@@ -1,0 +1,29 @@
+Date,Client,ClientCode,FirstName,LastName,Department,City,Payment,Revenue,Profit,Profit Margin
+5/30/2023,"AMAZON.COM, INC. ",xnas:amzn,Bill,Smith,Cloud Tech,Texas,Transfer,"$4,500 ",$598 ,13.3%
+5/30/2023,"TESLA, INC. ",xnas:tsla,Ken,Singh,Strategy,New York,PayPal,"$3,800 ","$1,045 ",27.5%
+5/30/2023,"NETFLIX, INC. ",xnas:nflx,Harley,Fritz,Strategy,New York,NA,"$3,713 ","$1,009 ",27.2%
+5/30/2023,THE PROCTER & GAMBLE COMPANY ,xnys:pg,Nyla,Novak,Operations,Florida,NA,NA,$779 ,NA
+5/30/2023,"THE GOLDMAN SACHS GROUP, INC. ",xnys:gs,David,Rasmussen,Operations,Florida,Check,"$5,000 ",$684 ,13.7%
+5/31/2023,JPMORGAN CHASE & CO. ,xnys:jpm,Ivan,Hiney,Cloud Tech,Texas,Transfer,"$6,100 ",$544 ,8.9%
+5/31/2023,MORGAN STANLEY ,xnys:ms,Jonha,Ma,Cloud Tech,Texas,Transfer,"$4,625 ",$670 ,14.5%
+5/31/2023,CITIGROUP INC. ,xnys:c,Jordan,Boone,Cloud Tech,Texas,Transfer,"$3,800 ","$2,045 ",53.8%
+5/31/2023,BANK OF AMERICA CORPORATION ,xnys:bac,Kylee,Townsend,Cloud Tech,Texas,Card,"$3,600 ","$1,564 ",43.4%
+5/31/2023,WALMART INC. ,xnys:wmt,Nora,Rollins,Cloud Tech,Texas,Check,"$5,100 ","$1,220 ",23.9%
+5/31/2023,TARGET CORPORATION ,xnys:tgt,Brendan,Wallace,Cloud Tech,Texas,Check,"$4,750 ","$1,435 ",30.2%
+5/31/2023,COSTCO WHOLESALE CORPORATION ,xnas:cost,Conor,Wise,Operations,Florida,Transfer,"$6,000 ",$998 ,16.6%
+5/31/2023,MCDONALD'S CORPORATION ,xnys:mcd,Steven,Michael,Big Data,California,Check,"$4,500 ",$780 ,17.3%
+6/1/2023,EXXON MOBIL CORPORATION ,xnys:xom,Lucia,Mckay,Big Data,California,Card,NA,"$1,044 ",NA
+6/1/2023,VERIZON COMMUNICATIONS INC. ,xnys:vz,Jose,Roach,Big Data,California,Transfer,"$3,713 ","$1,222 ",32.9%
+6/1/2023,"THE HOME DEPOT, INC. ",xnys:hd,Franklin,Wrigt,Big Data,California,Transfer,"$4,950 ","$1,065 ",21.5%
+6/1/2023,"CISCO SYSTEMS, INC. ",xnas:csco,Alia,Thornton,Operations,Florida,Transfer,"$4,750 ",$810 ,17.1%
+6/1/2023,CHEVRON CORPORATION ,xnys:cvx,Denzel,Flores,Operations,Florida,Transfer,"$7,320 ",$933 ,12.7%
+6/1/2023,AT&T INC. ,xnys:t,Bruno,Cordova,Big Data,California,Transfer,"$5,088 ",$655 ,12.9%
+6/1/2023,INTEL CORPORATION ,xnas:intc,Jaylynn,Napp,Big Data,California,Transfer,"$4,500 ",$722 ,16.0%
+6/1/2023,GENERAL MOTORS COMPANY ,xnys:gm,Bruce,Rich,Big Data,California,Card,"$4,250 ",$901 ,21.2%
+6/2/2023,MICROSOFT CORPORATION ,xnas:msft,Arturo,Moore,Big Data,California,PayPal,"$5,250 ","$1,349 ",25.7%
+6/2/2023,COMCAST CORPORATION ,xnas:cmcsa,Bryce,Carpenter,Strategy,New York,PayPal,"$6,500 ","$1,288 ",19.8%
+6/2/2023,DELL TECHNOLOGIES INC. ,xnys:dell,Jaidyn,Andersen,Strategy,New York,PayPal,"$7,500 ","$1,664 ",22.2%
+6/2/2023,JOHNSON & JOHNSON ,xnys:jnj,Mark,Walm,Strategy,New York,Transfer,"$5,500 ","$1,320 ",24.0%
+6/2/2023,FEDEX CORPORATION ,xnys:fdx,Harry,Lee,Strategy,New York,Transfer,"$4,625 ","$1,001 ",21.6%
+6/2/2023,GENERAL ELECTRIC COMPANY ,xnys:ge,Josh,Johnson,Strategy,New York,Transfer,"$4,500 ",$960 ,21.3%
+6/2/2023,LOCKHEED MARTIN CORPORATION ,xnys:lmt,Mik,Naam,Strategy,New York,Card,"$5,400 ",$540 ,10.0%
